@@ -802,3 +802,4 @@ openx.com, 561436793, RESELLER, 6a698e2ec38604c6
 xandr.com, 16856, RESELLER
 bigo.sg, 7id17wm5ly, RESELLER
 rubiconproject.com, 28409, RESELLER, 0bfd66d529a55807
+vungle.com, 6ad50362b0b4a336610b2bf0, DIRECT, c107d686becd2d77
